@@ -1,4 +1,4 @@
-## Hi I'm Mesha, Nice To Meet You 👋
+## Hi, Nice To Meet You 👋
 
 <!--
 **MeshaMakes/MeshaMakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
