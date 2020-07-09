@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👩 I'm 18 years young :)
 
-📚 I'm a Junior Software Developer
+📚 I'm a Software Developer
 
 👩‍🎓 Currently in my second year of college majoring in Information Technology
 
