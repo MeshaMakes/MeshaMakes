@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 👩‍🎓 Currently in my second year of college majoring in Information Technology
 
-🗓 Participatinf in the #100DaysOfCode challenge on my second round
+🗓 Participating in the #100DaysOfCode challenge on my second round
 
 ---
 
