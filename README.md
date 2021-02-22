@@ -49,6 +49,6 @@ I'm  open to small freelance projects and open souce collaborations just contact
 
 #### Come Say Hi and Ask Me Anything
  * [My Twitter](https://twitter.com/MeshaMakes)
- * [My Blog Posts](https://dev.to/mesha)
+ * [My Blog Posts](https://dev.to/meshamakes)
  
 ##### Thank you for reading all the way to here, feel free to stick around and learn something or find motivation I appreciate any help I can get :)
