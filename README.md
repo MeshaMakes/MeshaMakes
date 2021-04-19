@@ -21,9 +21,17 @@ Here are some ideas to get you started:
 
 📚 I'm a Software Developer
 
-👩‍🎓 Currently in my second year of college majoring in Information Technology
+👩‍🎓 Currently in my third year of college majoring in Information Technology
 
-🗓 Participating in the #100DaysOfCode challenge on my second round
+---
+
+### 🔭 I’m currently working on
+
+-[Rivr - An online streaming platform built for web](https://github.com/ArcherDiaz/P2P-chat) 
+|| [View Rivr Here](https://rivrlive.web.app/)
+
+-[Caribay - A mobile app geared towards new and upcoming business](https://github.com/MeshaMakes/Caribay)
+
 
 ---
 
