@@ -59,4 +59,6 @@ I'm  open to small freelance projects and open souce collaborations just contact
  * [My Twitter](https://twitter.com/MeshaMakes)
  * [My Blog Posts](https://dev.to/meshamakes)
  
+<a href="https://www.buymeacoffee.com/meshamakes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 10px !important;" ></a>
+ 
 ##### Thank you for reading all the way to here, feel free to stick around and learn something or find motivation I appreciate any help I can get :)
