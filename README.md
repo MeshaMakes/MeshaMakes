@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 👩‍🎓 Currently in my third year of college majoring in Information Technology
 
+[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c46f7eb-a870-430c-8351-a3f6f12d62f0/dcc83j2-f1093682-5169-4cdf-bf9d-1f0a12b63e40.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMmM0NmY3ZWItYTg3MC00MzBjLTgzNTEtYTNmNmYxMmQ2MmYwXC9kY2M4M2oyLWYxMDkzNjgyLTUxNjktNGNkZi1iZjlkLTFmMGExMmI2M2U0MC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.7gmOTDVAM9TssxZc-xMhpCYPv5g0TJOWS7B5GfmossE" height="50">](https://www.buymeacoffee.com/meshamakes)
+
 ---
 
 ### 🔭 I’m currently working on
@@ -58,7 +60,5 @@ I'm  open to small freelance projects and open souce collaborations just contact
 #### Come Say Hi and Ask Me Anything
  * [My Twitter](https://twitter.com/MeshaMakes)
  * [My Blog Posts](https://dev.to/meshamakes)
- 
-<a href="https://www.buymeacoffee.com/meshamakes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 10px !important;" ></a>
  
 ##### Thank you for reading all the way to here, feel free to stick around and learn something or find motivation I appreciate any help I can get :)
