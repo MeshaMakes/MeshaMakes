@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 
+-[Pen Note - A minimal markdown editor made with flutter](https://github.com/MeshaMakes/PenNote)
+
 -[Rivr - An online streaming platform built for web](https://github.com/ArcherDiaz/P2P-chat) 
-|| [View Rivr Here](https://rivrlive.web.app/)
 
 -[Caribay - A mobile app geared towards new and upcoming business](https://github.com/MeshaMakes/Caribay)
 
