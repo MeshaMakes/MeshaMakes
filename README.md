@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 -[Rivr - An online streaming platform built for web](https://github.com/ArcherDiaz/P2P-chat) 
 
--[Caribay - A mobile app geared towards new and upcoming business](https://github.com/MeshaMakes/Caribay)
+-[Caribay - A mobile app geared towards new and upcoming business](https://github.com/MeshaMakes/CaribayApp)
 
 
 ---
