@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 ---
 
-![Mesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshamakes&count_private=true&show_icons=true&theme=radical)
+![Mesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshamakes&count_private=true&show_icons=true&theme=radical) 
+ [![Mesha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meshamakes&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
